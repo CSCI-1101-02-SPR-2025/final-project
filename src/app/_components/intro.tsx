@@ -7,7 +7,7 @@ export function Intro() {
         Programming Languages.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        by Marissa C, Saul V, Josh P{" "}
+        by Marissa C, Saul V, Josh P
       </h4>
     </section>
   );
