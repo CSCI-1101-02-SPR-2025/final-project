@@ -5,7 +5,7 @@ coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2025-05-01T05:35:07.322Z"
 author:
   name: Marissa C
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/authors/marissac.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
