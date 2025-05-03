@@ -1,10 +1,10 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "Pros and Cons of each Individual Programming Languages"
+excerpt: "Knowing each differences between programming languages makes it far more superior than just picking a preferible language. Each language have their strong point in comparison to others."
+coverImage: "![Pros-Cons-768x503](https://github.com/user-attachments/assets/6d7b28ac-0742-49af-a707-e32396e469f3)"
+date: "2025-05-03T05:35:07.322Z"
 author:
-  name: Tim Neutkens
+  name: Saul Vasquez
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
