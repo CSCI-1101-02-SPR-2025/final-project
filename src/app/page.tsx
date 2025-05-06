@@ -7,9 +7,9 @@ import { getAllPosts } from "@/lib/api";
 export default function Index() {
   const allPosts = getAllPosts();
 
-  const heroPost = allPosts[0];
+  const heroPost = allPosts.find(post => post.slug === "dynamic-routing");
 
-  const morePosts = allPosts.slice(1);
+  const morePosts = allPosts.filter(post => post.slug !== "dynamic-routing");
 
   return (
     <main>
