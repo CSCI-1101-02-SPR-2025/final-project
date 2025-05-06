@@ -5,7 +5,7 @@ coverImage: "![Pros-Cons-768x503](https://github.com/user-attachments/assets/6d7
 date: "2025-05-03T05:35:07.322Z"
 author:
   name: Saul Vasquez
-  picture: "/assets/blog/authors/tim.jpeg"
+  picture: "/assets/blog/authors/saulv.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
