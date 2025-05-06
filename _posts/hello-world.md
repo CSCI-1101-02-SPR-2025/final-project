@@ -1,13 +1,13 @@
 ---
 title: "Pros and Cons of each Individual Programming Languages"
 excerpt: "Knowing each differences between programming languages makes it far more superior than just picking a preferible language. Each language have their strong point in comparison to others."
-coverImage: "![Pros-Cons-768x503](https://github.com/user-attachments/assets/6d7b28ac-0742-49af-a707-e32396e469f3)"
+coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2025-05-03T05:35:07.322Z"
 author:
   name: Saul Vasquez
   picture: "/assets/blog/authors/saulv.jpg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/helloworld-cover.jpg"
 ---
 
 Choosing a programming language is a critical decision that affects a project's development speed, maintainability, performance, and scalability. Each programming language has its own strengths and weaknesses, making it more or less suitable for different types of applications. In this occasion, we will compares six widely-used programming languages:
