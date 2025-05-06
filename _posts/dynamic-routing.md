@@ -1,7 +1,7 @@
 ---
 title: "What is a Programming Language?"
 excerpt: "A programming language is a system of communication used to give instructions to a computer. It provides a structured way to write commands that a machine can understand and execute. In computer science, programming languages are essential tools for creating software, solving problems, and expressing algorithms. They allow developers to build everything from websites and apps to artificial intelligence and data analysis systems."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/dynamic-routing/pexels-photo-276452.jpeg"
 date: "2025-05-01T05:35:07.322Z"
 author:
   name: Marissa C
