@@ -12,9 +12,10 @@ export default function Index() {
   const morePosts = allPosts.filter(post => post.slug !== "dynamic-routing");
 
   return (
-    <main>
-      <Container>
-        <Intro />
+  <main>
+    <Container>
+      <Intro />
+      {heroPost && (
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
@@ -23,8 +24,8 @@ export default function Index() {
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-      </Container>
-    </main>
-  );
-}
+      )}
+      {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+    </Container>
+  </main>
+);
