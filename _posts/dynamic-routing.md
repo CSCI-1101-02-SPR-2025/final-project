@@ -7,7 +7,7 @@ author:
   name: Marissa C
   picture: "/assets/blog/authors/marissac.jpg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/dynamic-routing/pexels-photo-276452.jpeg"
 ---
 
 There are many types of programming languages, but they all serve the same basic purpose: to tell a computer what to do. Some languages are general-purpose, like Python or JavaScript, while others are designed for specific tasks, such as SQL for databases or HTML for structuring web content.
