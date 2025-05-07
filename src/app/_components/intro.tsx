@@ -10,7 +10,7 @@ export function Intro() {
         by Marissa C, Saul V, Josh P
       </h4>
       <p className="text-center md:text-left text-sm md:pl-8">
-        CSCI-1101-02 - May 6, 2025
+        CSCI-1101-02  5/6/2025
       </p>
     </section>
   );
