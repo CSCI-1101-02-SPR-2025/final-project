@@ -22,7 +22,7 @@ export const metadata: Metadata = {
         alt: "Programming Languages Pros and Cons Chart",
       },
     ],
-    type: "website",
+    type: "website"
   },
 };
 
