@@ -13,7 +13,8 @@ ogImage:
 Choosing a programming language is a critical decision that affects a project's development speed, maintainability, performance, and scalability. Each programming language has its own strengths and weaknesses, making it more or less suitable for different types of applications. In this occasion, we will compares six widely-used programming languages:
 Python, C#, C++, Java, JavaScript, and R.
 
-## We will look at their individual advantages and drawbacks in detail, focusing on factors such as ease of use, performance, ecosystem, and typical use cases.
+## The differences between each programming language
+We will look at their individual advantages and drawbacks in detail, focusing on factors such as ease of use, performance, ecosystem, and typical use cases.
 
 Python, JavaScript, and R are often praised for their accessibility and specialized strengths. Python stands out for its clean, readable syntax and versatility across domains like data science, web development, automation, and scripting. Its vast library ecosystem (NumPy, pandas, Django, etc.) makes it a go-to language for both beginners and professionals. JavaScript, meanwhile, is indispensable for web development—it’s the only language that runs natively in browsers, powering interactive front-end experiences and increasingly handling backend logic via Node.js. R is more niche but excels in statistical analysis and data visualization. It’s widely used in academic research, data science, and among statisticians, though it's less flexible as a general-purpose programming language.
 
