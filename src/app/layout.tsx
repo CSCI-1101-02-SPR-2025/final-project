@@ -10,10 +10,19 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
-  openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    title: "Programming Languages Project",
+    description: "Explore the pros and cons of popular programming languages like Python, Java, and more.",
+    url: "https://final-project-five-pearl.vercel.app/",
+    siteName: "CSCI-1101 Final Project",
+    images: [
+      {
+        url: "/assets/blog/hello-world/pros-cons.png",
+        width: 1200,
+        height: 630,
+        alt: "Programming Languages Pros and Cons Chart",
+      },
+    ],
+    type: "website",
   },
 };
 
