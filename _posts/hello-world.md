@@ -1,5 +1,5 @@
 ---
-title: "Pros and Cons of each Individual Programming Languages"
+title: "Pros and Cons of Different Programming Languages"
 excerpt: "Knowing each differences between programming languages makes it far more superior than just picking a preferible language. Each language have their strong point in comparison to others."
 coverImage: "/assets/blog/hello-world/helloworld-cover.jpg"
 date: "2025-05-03T05:35:07.322Z"
