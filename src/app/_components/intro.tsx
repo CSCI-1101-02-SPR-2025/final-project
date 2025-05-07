@@ -9,7 +9,7 @@ export function Intro() {
       <h4 className="text-center md:text-left text-md mt-5 md:pl-8">
         by Marissa C, Saul V, Josh P
       </h4>
-      <p className="text-center md:text-left text-sm md:pl-8">
+      <p className="text-center md:text-left text-md md:pl-8">
         CSCI-1101-02  5/6/2025
       </p>
     </section>
