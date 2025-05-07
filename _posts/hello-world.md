@@ -5,7 +5,8 @@ coverImage: "/assets/blog/hello-world/helloworld-cover.jpg"
 date: "2025-05-03T05:35:07.322Z"
 author:
   name: Saul Vasquez
-  picture: "/assets/blog/authors/saulv.jpg"
+  picture: "![IMG_20250507_155133](https://github.com/user-attachments/assets/d4345980-53ff-43e0-b74a-82c7b4ccbde9)
+"
 ogImage:
   url: "/assets/blog/hello-world/helloworld-cover.jpg"
 ---
