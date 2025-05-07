@@ -6,7 +6,7 @@ export function Intro() {
       <h1 className="text-3xl md:text-5xl font-bold tracking-tighter leading-tight md:pr-8">
         Programming Languages.
       </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+      <h4 className="text-center md:text-left text-md mt-5 md:pl-8">
         by Marissa C, Saul V, Josh P
       </h4>
       <p className="text-center md:text-left text-sm md:pl-8">
