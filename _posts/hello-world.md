@@ -23,3 +23,12 @@ In terms of performance, C++ leads by a wide margin due to its compiled nature a
 
 When choosing between these languages, it ultimately comes down to the goals of the project. If you're doing data analysis or machine learning, Python or R are ideal. For building scalable web apps or Android applications, Java is a solid pick. If you're targeting Windows environments or developing games, C# is a strong contender. For low-level system programming or applications where performance is critical, C++ is unmatched. And if you're building for the web, JavaScript is unavoidable. Each language has carved out its own domain of excellence, making it important to match the tool to the task.
 
+<p style="text-align: center;">
+  <img 
+    src="/assets/blog/hello-world/pros-cons.png" 
+    alt="Pros and Cons Chart" 
+    style="max-width: 700px; width: 100%; height: auto; border-radius: 0.5rem;" 
+  />
+  <br />
+  <em style="font-size: 0.9rem; color: #888;">Chart created by Marissa C</em>
+</p>
