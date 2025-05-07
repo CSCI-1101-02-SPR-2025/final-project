@@ -10,9 +10,13 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  title: "Programming Languages Project",
+  description:
+    "Explore the pros and cons of popular programming languages like Python, Java, and more.",
+  openGraph: {
     title: "Programming Languages Project",
-    description: "Explore the pros and cons of popular programming languages like Python, Java, and more.",
-    url: "https://final-project-five-pearl.vercel.app/",
+    description:
+      "Explore the pros and cons of popular programming languages like Python, Java, and more.",
     siteName: "CSCI-1101 Final Project",
     images: [
       {
@@ -22,8 +26,9 @@ export const metadata: Metadata = {
         alt: "Programming Languages Pros and Cons Chart",
       },
     ],
-    type: "website"
-  }
+    type: "website",
+  },
+};
 
 export default function RootLayout({
   children,
